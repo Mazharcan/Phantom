@@ -1,3 +1,3 @@
 # Phantom
 
-Phantom 2D oyunu unity reposudur.
+Phantom, Unity 2D platform oyunun deposu.
