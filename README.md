@@ -1,3 +1,3 @@
 # Phantom
 
-Phantom, Unity 2D platform oyunun deposu.
+Phantom, Unity 2D platform game reporsitory.
